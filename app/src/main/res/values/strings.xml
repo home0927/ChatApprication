@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">ChatApprication</string>
+    <!-- 핸드폰 언어설정이 한글이면 한글 strings 것만 참고하니, 영문으로 보일려면 핸드폰 언어설정을 변경해야 한다-->
+    <string name="app_name">Chat</string>
+    <string name="action_setting">Setting</string>
+    <string name="hellow">Hellow</string>
+    <string name="send">Send</string>
+    <string name="how_are_you">how are you</string>
+    <string name="fine">Fine</string>
+    <string name="tire">tire</string>
+    <string name="bless_you">Bless you</string>
+    <string name="forturn">fortune</string>
+    <string name="worst_luck">Worst luck</string>
+    <string name="bad_luck">Bad luck</string>
+    <string name="good_luck">Good luck</string>
+    <string name="nice_luck">Nice luck</string>
+    <string name="best_luck">Best luck</string>
+    <string name="amazing_luck">Amazing luck</string>
+    <string name="time">Time</string>
+    <string name="time_format">this time is %1$d:%2$d:%3$d</string>
+    <string name="good">Good</string>
+
 </resources>
+
+
